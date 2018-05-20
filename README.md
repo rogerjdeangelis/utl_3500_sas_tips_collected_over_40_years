@@ -5,6 +5,19 @@
 
     3,500_sas_tips_collected_over_40_years
 
+     see
+     github
+     https://tinyurl.com/y8qev749
+     https://github.com/rogerjdeangelis/utl_3500_sas_tips_collected_over_40_years
+
+     see
+     IanWhitlock osts courtesy of Arthur Tabachneck art@analystfinder.com
+     https://communities.sas.com/t5/user/viewprofilepage/user-id/13711
+
+     from art
+     https://tinyurl.com/y8qev749
+     https://github.com/rogerjdeangelis/utl_3500_sas_tips_collected_over_40_years/blob/master/IanWhitlock_Posts.xlsx
+
     I have been collecting the best 'SAS" related posts from my  personal tips,
     COMP-SOFT-SYS-SAS, SAS-L, SAS FORUM, StackOverflow R, perl and python
     some for the last almost 40 years, Even the bitserve(ARPANET) days. I used to
