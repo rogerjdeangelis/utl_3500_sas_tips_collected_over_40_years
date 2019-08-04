@@ -259,7 +259,7 @@
     /* T002550 CHECK LOG
     /* T002560 COLOR LIST FOR SAS GRAPH
     /* T002570 OBSERVATION NUMBERS FROM PROC SQL MONOTONIC() (DO NOT USE ORDER BY)
-    /* T002580 SAS KEYBOARD ABREVIATIONS BY WAY OF COMMAND MACROS
+    /* T002580 SAS KEYBOARD ABBREVIATIONS BY WAY OF COMMAND MACROS
     /* T002580 SAS SPELL CHECKER
     /* T002590 INSERT DATA INTO EXCEL WITHOUT COLUMN ROW
     /* T002600 LATEST ATTEMPT TO CREATE COMPLEX REPORT WITH MINIMAL LINES OF CODE 10/7/2009
@@ -645,7 +645,7 @@
     /* T006820 Ranks Based upon Average Doctor Disciplinary Rates over the Preceding Three Years5,6
     /* T006830 24 month period with the highest number of events (rolling totals)
     /* T006840 Neat things you can do with EXCELXP and TAGATTR
-    /* T606800 Create lookup State Long Name to State Abreviation
+    /* T606800 Create lookup State Long Name to State Abbreviation
     /* T606820 Simpler Macro Quoting without Klingon
     /* T606830 Running Proc sql within a datastep;
     /* T606840 DROP DOWN TO R IN A DATASTEP GENERAL ANALYSIS OF VARIANCE AND LEAST SQUARES WITHOUT SAS-STAT
